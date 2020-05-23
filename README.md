@@ -1,6 +1,6 @@
 ## #EnDaTa
 
-### 제 1회 마이데이터 액팅 해커톤 '믿집' 
+### 제 1회 마이데이터 액팅 해커톤 '믿집' 우수상
 
 ![image](https://user-images.githubusercontent.com/48886490/82736769-01772800-9d67-11ea-9622-747b28656d26.png)
 
